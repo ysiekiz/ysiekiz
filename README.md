@@ -16,9 +16,8 @@
      <p align="left"> ᴍᴀʟᴇ/sʜᴇ/ʜᴇʀ <p>
       <p align="left"> 13yo <p>
         <p align="left"> ɪᴅɪᴏᴛ  <p>
-      <p align="left"> lo-fi fan <p>
       <p align="left"> self taught python programmer <p>
-      <p align="left"> Manga and Anime fan <p>
+      <p align="left"> Manga, Anime, Lo-Fi enjoyer <p>
       <p align="left"> My main language is Polish, my second is Engish and my foreign language is Japanese ❤
       <p align="left">
       <br>
