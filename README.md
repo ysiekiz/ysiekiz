@@ -28,19 +28,4 @@
       <br>
       <div align="center">
            <img src="https://c.tenor.com/MfLBVayxOc8AAAAC/my-dress-up-darling-sono-bisque-doll-wa-koi-wo-suru.gif">
-          
-          
-      
-      
-    
-    
-      
-      
-      
-    
-  
-    
-    
-    
-    
-
+          <h1>⚠️Private Mail (For sending request to Take Down, IP Guidelines) :  zwaggins@gmail.com<h1>
