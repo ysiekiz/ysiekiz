@@ -3,7 +3,7 @@
 <br>
   <div align="center">
     <a herf="https://discord.com/users/878707158500397127">
-      <img src="https://lanyard.cnrad.dev/api/878707158500397127?idleMessage=Monika_"
+      <img src="https://lanyard.cnrad.dev/api/878707158500397127?idleMessage=Not alive"
            />
     </a>
     <br>
