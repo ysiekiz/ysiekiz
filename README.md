@@ -14,7 +14,7 @@
      <h1 align="left"> ᴀʙᴏᴜᴛ ᴍᴇ </h1> 
      <br>
      <p align="left"> ᴍᴀʟᴇ/sʜᴇ/ʜᴇʀ <p>
-      <p align="left"> 13yo <p>
+      <p align="left">  <p>
         <p align="left"> ɪᴅɪᴏᴛ  <p>
       <p align="left"> self taught python programmer <p>
       <p align="left"> Manga, Anime, Lo-Fi enjoyer <p>
