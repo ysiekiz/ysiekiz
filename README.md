@@ -27,8 +27,22 @@
 </li>
 <li>
 <b> 𝘚𝘵𝘪𝘭𝘭 𝘪𝘯 𝘦𝘭𝘦𝘮𝘦𝘯𝘵𝘢𝘳𝘺 𝘴𝘤𝘩𝘰𝘰𝘭
+<hr>
+<br>
+<div align="center">
+    <a herf="https://discord.com/users/878707158500397127">
+      <img src="https://lanyard.cnrad.dev/api/878707158500397127?idleMessage=Not alive"
+           />
+  </a>
+</br>
+<hr>
+<br>
+<div align="center">
+<a herf="https://github.com/ysiekiz"><img src="https://github-readme-stats.vercel.app/api?username=ysiekiz&show_icons=true&theme=transparent"/></a>
 </li>
 <hr>
+<div align="center">
+
 <h1 align="center">Hardware (•_•)</h1>
 <li>
 <b>Cpu: Intel i7-4970K
@@ -52,6 +66,12 @@
 <b>Disks: Kingston A400 960GB SSD/Samsung 850 EVO 250GB SSD/Samsung 860 EVO 250GB SSD/WD Purple 2TB HDD
 </li>
 <hr>
-<h1 align="center">My social medias</h1>
+<h1 align="center">Contact me</h1>
 <li>
-<a herf="https://www.instagram.com/krzysiekxzv/">dsad</a>
+<a>Instagram: https://www.instagram.com/krzysiekxzv/</a>
+<li>
+<a>Gmail: krzysztofkonopka2009@gmail.com
+<li>
+<a>Discord: ysiekiz#9892</a>
+</body>
+
