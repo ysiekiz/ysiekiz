@@ -29,11 +29,6 @@
 <b> 𝘚𝘵𝘪𝘭𝘭 𝘪𝘯 𝘦𝘭𝘦𝘮𝘦𝘯𝘵𝘢𝘳𝘺 𝘴𝘤𝘩𝘰𝘰𝘭
 <hr>
 <br>
-<div align="center">
-    <a herf="https://discord.com/users/878707158500397127">
-      <img src="https://lanyard.cnrad.dev/api/878707158500397127?idleMessage=Not alive"
-           />
-  </a>
 </br>
 <hr>
 <br>
