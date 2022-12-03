@@ -1,30 +1,57 @@
 <body>
-    <h1 align="center">  𝚑𝚒! </h1>
-<br>
-  <div align="center">
-    <a herf="https://discord.com/users/878707158500397127">
-      <img src="https://lanyard.cnrad.dev/api/878707158500397127?idleMessage=Not alive"
-           />
-    </a>
-    <br>
-    <p>Ｍｙ ｔｉｍｅｚｏｎｅ ｉｓ ＵＴＣ＋２</p>
-      <div>
-      <img src="https://cdn.discordapp.com/attachments/879070848739315742/981258714608717885/ScalyEnergeticAmericanlobster-max-1mb.gif" align="center">
-      </div>
-     <h1 align="left"> ᴀʙᴏᴜᴛ ᴍᴇ </h1> 
-     <br>
-     <p align="left"> ᴍᴀʟᴇ/sʜᴇ/ʜᴇʀ <p>
-      <p align="left">  <p>
-        <p align="left"> ɪᴅɪᴏᴛ  <p>
-      <p align="left"> self taught python programmer <p>
-      <p align="left"> Manga, Anime, Lo-Fi enjoyer <p>
-      <p align="left"> My main language is Polish, my second is Engish and my foreign language is Japanese ❤
-      <p align="left">
-      <br>
-      <br>
-        <p align="center">Birthday 🎈🎈<p>
-        <p align="center">28th June<p> 
-      <br>
-      <div align="center">
-           <img src="https://c.tenor.com/MfLBVayxOc8AAAAC/my-dress-up-darling-sono-bisque-doll-wa-koi-wo-suru.gif">
-          <h1>⚠️Private Mail (For sending request to Take Down, IP Guidelines) :  zwaggins@gmail.com<h1>
+<h1 align="center"> (*/ω＼*) 𝚑𝚒! 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 (*/ω＼*) </h1>
+<div>
+<img src="IMG_6412.png" type="image" align="center"><br><br>
+<hr>
+<li>
+<b>Krzysztof Konopka / Ysiekiz
+</li>
+<li>
+<b>I'm a Polish Web/Visual Novel developer
+</li>
+<li>
+<b>Opole/Poland
+</li>
+<li>
+<b>13 years old
+</li>
+<li>
+<b>Eng/PL
+</li>
+<li>
+<b> Programming Languages: Pyton (mainly custom Ren'py), HTML and PHP (I'm bad at it lol)
+<li>
+<b>Pronouns: He/His </b>
+<li>
+<b> My interests: Hackintoshing, Reading Manga, Watching Anime and Sleeping (┬┬﹏┬┬)
+</li>
+<li>
+<b> 𝘚𝘵𝘪𝘭𝘭 𝘪𝘯 𝘦𝘭𝘦𝘮𝘦𝘯𝘵𝘢𝘳𝘺 𝘴𝘤𝘩𝘰𝘰𝘭
+</li>
+<hr>
+<h1 align="center">Hardware (•_•)</h1>
+<li>
+<b>Cpu: Intel i7-4970K
+</li>
+<li>
+<b>Ram: 32GB 1600MHz DDR3
+</li>
+<li>
+<b>Mobo: Asus Z97-K
+</li>
+<li>
+<b>Gpu: Nvidia GTX 1080
+</li>
+<li>
+<b>Audio Codec: ALC887
+</li>
+<li>
+<b>Ethernet Card: Realtek 8111GR
+</li>
+<li>
+<b>Disks: Kingston A400 960GB SSD/Samsung 850 EVO 250GB SSD/Samsung 860 EVO 250GB SSD/WD Purple 2TB HDD
+</li>
+<hr>
+<h1 align="center">My social medias</h1>
+<li>
+<a herf="https://www.instagram.com/krzysiekxzv/">dsad</a>
